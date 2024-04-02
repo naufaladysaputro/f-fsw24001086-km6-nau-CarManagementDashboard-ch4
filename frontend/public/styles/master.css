@@ -88,9 +88,16 @@ a {
 }
 
 .logo-md {
-  width: 100px;
-  height: 34px;
-  background: #cfd4ed;
+   width: 100px;
+    height: 34px;
+    background: #cfd4ed;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn-blue-outline {
