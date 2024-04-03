@@ -12,7 +12,7 @@ aplikasi web express.js berguna untuk management data mobil dengan fungsi CRUD. 
 
 ## Tabel database
 
-![Diagram model data yang digunakan](./readme-files/db-diagram.png) 
+![Diagram model data yang digunakan](./readme-files/db_diagram_challenge4.png) 
 
 # Getting Started
 
