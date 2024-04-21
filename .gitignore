@@ -3,3 +3,4 @@ frontend/access.log
 backend/node_modules 
 backend/access.log
 backend/public/uploads/*
+.env
